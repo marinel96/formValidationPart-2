@@ -1,0 +1,22 @@
+body {
+    background-color: #cbb02c;
+}
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 40px;
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.form-group label {
+    font-weight: 600;
+}
+.step-content {
+    display: none
+}
+.step-content.active {
+    display: block;
+}
